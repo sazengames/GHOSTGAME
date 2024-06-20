@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b4a24d0e4a28423fb3249b923d7e418, type: 3}
+  m_Name: PuzzleExamples_ManagerPackage
+  m_EditorClassIdentifier: 
+  actionsManager: {fileID: 11400000, guid: 7346dd56ea3c1974a9f12b833a13c58f, type: 2}
+  sceneManager: {fileID: 11400000, guid: 60a7ac7028854304293ecada68b909b7, type: 2}
+  settingsManager: {fileID: 11400000, guid: bd6b74ebb92178746b425c7bc5e0bba3, type: 2}
+  inventoryManager: {fileID: 11400000, guid: 27d10ea39fe3074468a1c6c96f821b4f, type: 2}
+  variablesManager: {fileID: 11400000, guid: 3fd1df19aede68b4c84a18e6a0c88476, type: 2}
+  speechManager: {fileID: 11400000, guid: 087b9da6e9b62ff41983517e2206867f, type: 2}
+  cursorManager: {fileID: 11400000, guid: 7159b4539c1b9a042be7f7d5b2a3847d, type: 2}
+  menuManager: {fileID: 11400000, guid: 619e4dd86d843b64ea6bbbb6735765a4, type: 2}

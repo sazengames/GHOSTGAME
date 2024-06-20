@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b4a24d0e4a28423fb3249b923d7e418, type: 3}
+  m_Name: ArrangingPuzzleExample_ManagerPackage
+  m_EditorClassIdentifier: 
+  actionsManager: {fileID: 11400000, guid: 1a78e8c5f71ed4cee837c63320e9be83, type: 2}
+  sceneManager: {fileID: 11400000, guid: 2c1da7338131443658b03be1b4259405, type: 2}
+  settingsManager: {fileID: 11400000, guid: 2008cf2823a1a464b85a6536b33a3e77, type: 2}
+  inventoryManager: {fileID: 11400000, guid: 9b8bf8b6cf70148578d4bd1f2749f84d, type: 2}
+  variablesManager: {fileID: 11400000, guid: 44375a98db3084207b014af9b2ef1e12, type: 2}
+  speechManager: {fileID: 11400000, guid: af1f00b64c4dc44e7927b731f44a9311, type: 2}
+  cursorManager: {fileID: 11400000, guid: c641d6664b6764226a95b86189490459, type: 2}
+  menuManager: {fileID: 11400000, guid: 41e18a737c17c4e01a507a34c07a3029, type: 2}
