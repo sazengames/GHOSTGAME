@@ -1,0 +1,17 @@
+InstructionsMarker {
+    width: 18px;
+    height: 18px;
+    background-color: red;
+    background-image: resource("Assets/Plugins/GameCreator/Extensions/Timeline/Editor/StyleSheets/Icons/Instructions_Dark_Collapse.png");
+    -unity-background-scale-mode: scale-to-fit;
+}
+
+InstructionsMarker:checked
+{
+    background-image: resource("Assets/Plugins/GameCreator/Extensions/Timeline/Editor/StyleSheets/Icons/Instructions_Dark_Normal.png");
+}
+
+InstructionsMarker:hover:focus:checked
+{
+    background-image: resource("Assets/Plugins/GameCreator/Extensions/Timeline/Editor/StyleSheets/Icons/Instructions_Dark_Active.png");
+}
